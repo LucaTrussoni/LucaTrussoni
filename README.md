@@ -1,5 +1,5 @@
 ## Hi there 👋
-Placeholder for portfolio of repositories
+This is currently work in progress... 
 
 <!--
 **LucaTrussoni/LucaTrussoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,14 +20,27 @@ Here are some ideas to get you started:
 
 |Name|Description|Stack|
 | -------- | ------- | ------- |
-| Project1 | Des1 | Stack1 |
-| Project2 | Des2 | Stack2 |
+| PEW | Des1 | Stack1 |
+| EP containerization | Des2 | Stack2 |
+| MatGen | Des3 | Stack3 |
+
+Projects prepared for Master in Data Engineering
+
+|Name|Description|Stack|
+| -------- | ------- | ------- |
+| SQL project | Des4 | Stack4 |
+| Spark project | Des5 | Stack5 |
+| AWS project | Des6 | Stack 6 |
+| Azure project | Des 7 | Stack 7 |
+| Snowflake project | Des 8 | Stack 8 |
 
 ### Publications:
 
 * Paper1
 * Paper2
-
-
-
-
+* Paper3
+* Paper4
+* Paper5
+* Paper6
+* Paper7
+* Paper8
